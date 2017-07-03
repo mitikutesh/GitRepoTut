@@ -16,6 +16,8 @@ public class Main
 	{
 		System.out.println("HELLO HAPPY MAN");
 		System.out.println("THIS APP SHOWS GIT USAGE");
+		
+		System.out.println("Test on");
 	}
 
 }
